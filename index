@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Rotating Slider Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>My 3D Slider Page</h1>
+    </header>
+    <section class="title">
+        <h2>Welcome to the 3D Rotating Slider</h2>
+    </section>
+    <section class="slider">
+        <div class="slider-wrapper">
+            <div class="slide slide-x">Slide X</div>
+            <div class="slide slide-y">Slide Y</div>
+            <div class="slide slide-z">Slide Z</div>
+        </div>
+    </section>
+    <section class="content">
+        <p>This is additional content below the slider.</p>
+    </section>
+</body>
+</html>
